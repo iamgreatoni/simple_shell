@@ -3,4 +3,4 @@
 Project to be done in teams of 2 people Your team:
 
 John Oni
-Osas Efebe
+Osakpolor Efebe
