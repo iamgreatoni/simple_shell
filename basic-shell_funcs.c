@@ -1,4 +1,4 @@
-#include "s_sh.h"
+#include "shell.h"
 
 /**
  * _strdup - duplicates
